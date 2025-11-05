@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>PADGen 3.1.1.50 http://www.padgen.org</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description (PAD) is a data set for sharing software information.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+
+  <Company_Info>
+    <Company_Name>Free VPN Unlimited AG</Company_Name>
+    <Address_1>Switzerland Rigistrasse 3, CH-6300 Zug</Address_1>
+    <Address_2/>
+    <City_Town>Zug</City_Town>
+    <State_Province>Zug</State_Province>
+    <Zip_Postal_Code>CH-6300</Zip_Postal_Code>
+    <Country>Switzerland</Country>
+    <Company_WebSite_URL>https://freevpnmars.com/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>MARS VPN</Author_First_Name>
+      <Author_Last_Name/>
+      <Author_Email>support@vpnly.com</Author_Email>
+      <Contact_First_Name>MARS VPN</Contact_First_Name>
+      <Contact_Last_Name/>
+      <Contact_Email>support@vpnly.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>support@vpnly.com</Sales_Email>
+      <Support_Email>support@vpnly.com</Support_Email>
+      <General_Email>support@vpnly.com</General_Email>
+      <Sales_Phone/>
+      <Support_Phone/>
+      <General_Phone/>
+      <Fax_Phone/>
+    </Support_Info>
+  </Company_Info>
+
+  <Program_Info>
+    <Program_Name>Mars VPN</Program_Name>
+    <Program_Version>1.0.2</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>01</Program_Release_Day>
+    <Program_Release_Year>2025</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other_Code/>
+    <Program_Cost_Other/>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Android</Program_OS_Support>
+    <Program_Language>English, Russian</Program_Language>
+    <Program_Change_Info>Initial Android release; performance &amp; connection stability improvements.</Program_Change_Info>
+    <Program_Specific_Category>Internet</Program_Specific_Category>
+    <Program_Category_Class>Network &amp; Internet::Other</Program_Category_Class>
+    <Program_System_Requirements>Android 8.0+ (minSdk 26); targetSdk 36; Internet connection; Supported ABIs: arm64-v8a, armeabi-v7a; Package: free.vpn.proxy.mars.</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>89128960</File_Size_Bytes>
+      <File_Size_K>87040</File_Size_K>
+      <File_Size_MB>85.00</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count/>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info/>
+      <Expire_Month/>
+      <Expire_Day/>
+      <Expire_Year/>
+    </Expire_Info>
+  </Program_Info>
+
+  <Program_Descriptions>
+    <English>
+      <Keywords>mars vpn, freevpnmars, free vpn mars, free vpn, android vpn, secure vpn, fast vpn, unlimited vpn, no logs vpn</Keywords>
+      <Char_Desc_45>Free VPN for Android — Mars</Char_Desc_45>
+      <Char_Desc_80>Mars VPN: Free VPN for Android – Without Logs and Limits</Char_Desc_80>
+      <Char_Desc_250>Mars VPN provides private, unrestricted access on Android with no accounts, no hidden fees, and no limits. Connect in one tap, hide your IP, and browse freely with stable performance and smart server selection.</Char_Desc_250>
+      <Char_Desc_450>Enjoy a modern VPN built for everyday use. Mars VPN encrypts traffic, hides your IP, and lets you stream, chat, and surf without restrictions. No registration, no logs, and unlimited bandwidth with auto-connect to the optimal server.</Char_Desc_450>
+      <Char_Desc_2000>Mars VPN is a free Android VPN focused on privacy, speed, and simplicity. Get instant protection and open access to sites and apps with one tap — no account creation, trials, or hidden charges. The app provides unlimited bandwidth and stable performance so you can stream, message, and browse without slowdowns. A clean interface and auto-connect help you go online quickly while choosing an optimal server for you. Mars VPN minimizes tracking, protects data on public Wi‑Fi, and keeps your activity private while you use social networks, messengers, or streaming platforms. Built for everyday use, it combines ease of use with reliable encryption and a strict no‑logs policy.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://freevpnmars.com/</Application_Info_URL>
+      <Application_Order_URL>https://s3.amazonaws.com/static.vpnly.com/android/mars/mars.apk</Application_Order_URL>
+      <Application_Screenshot_URL>https://i.postimg.cc/6QBYyJq5/1-1.jpg</Application_Screenshot_URL>
+      <Additional_Screenshot_URL_1>https://i.postimg.cc/VNzDdQvt/2.jpg</Additional_Screenshot_URL_1>
+      <Additional_Screenshot_URL_2>https://i.postimg.cc/25C2VRyV/3.jpg</Additional_Screenshot_URL_2>
+      <Additional_Screenshot_URL_3>https://i.postimg.cc/LsmNnK5Z/4.jpg</Additional_Screenshot_URL_3>
+      <Additional_Screenshot_URL_4/>
+      <Application_Icon_URL>https://i.postimg.cc/YStbhK0L/LOGO-GLOBAL.jpg</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/DANTravisD/PAD_files/main/freevpnmars_android_pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://s3.amazonaws.com/static.vpnly.com/android/mars/mars.apk</Primary_Download_URL>
+      <Secondary_Download_URL/>
+      <Additional_Download_URL_1/>
+      <Additional_Download_URL_2/>
+    </Download_URLs>
+  </Web_Info>
+
+  <Permissions>
+    <Distribution_Permissions>This agreement is between customer and freevpnmars.com (Free VPN Unlimited AG, Rigistrasse 3, CH-6300 Zug, Switzerland) regarding VPN-service, related services and functions. This service is NOT intended to assist in the commission of unlawful acts. It is a service that provides anonymity and privacy. You agree not to violate any laws of your country or the one where you are currently.</Distribution_Permissions>
+    <EULA>https://freevpnmars.com/terms-of-use/</EULA>
+    <Privacy_Policy_URL>https://freevpnmars.com/privacy-policy/</Privacy_Policy_URL>
+  </Permissions>
+
+  <Affiliates/>
+  <ASP>
+    <ASP_FORM>Y</ASP_FORM>
+    <ASP_Member>N</ASP_Member>
+    <ASP_Member_Number/>
+  </ASP>
+</XML_DIZ_INFO>
